@@ -1,0 +1,28 @@
+<Table>
+    <company sr="1">
+        <name> Samsung</name>
+        <id> 11 </id>
+        <unit_pricel> 35000</unit_pricel>
+        <stock>50 </stock>
+        <status> 1<</status>
+        </company>
+
+
+ <Company sr="2">
+
+<name> HTC </name>
+        <id> 20 </id>
+        <unit_pricel> 65300</unit_pricel>
+        <stock>35</stock>
+        <status> 0<</status>
+        </company>
+
+         <company sr="3">
+<name> Nokia</name>
+        <id> 23 </id>
+        <unit_pricel> 25100</unit_pricel>
+        <stock>100</stock>
+        <status> 1<</status>
+        </company>
+        
+        </Table>

@@ -1,0 +1,31 @@
+<Table_1>
+    <employee="1">
+        <name>John Carter</name>
+        <admission_date> 
+        <Day> 25</date>
+        <month> 12 </month>
+        <year> 2015</month>
+        </admission_date>
+        </employee>
+    
+     <employee="2">
+        <name>Bob Marshal</name>
+        <admission_date> 
+        <Day> 13</date>
+        <month> 01</month>
+        <year> 1999</month>
+        </admission_date>
+        </employee>
+
+
+         <employee="1">
+        <name>Clerk Kent </name>
+        <admission_date> 
+        <Day> 17 </date>
+        <month> 06 </month>
+        <year> 2005</month>
+        </admission_date>
+        </employee>
+    
+
+    
